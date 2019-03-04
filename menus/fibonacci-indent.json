@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fibonacci-indent this!",
+        "command": "fibonacci-indent:indent"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Fibonacci-indent",
+          "submenu": [
+            {
+              "label": "Indent current selection",
+              "command": "fibonacci-indent:indent"
+            },
+            {
+              "label": "Indent the entire document",
+              "command": "fibonacci-indent:indentAll"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
