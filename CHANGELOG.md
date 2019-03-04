@@ -1,4 +1,4 @@
-## 0.1.0 - First Release
+## 0.0.0 - First Release
 #### 04/03/2019
 
 * Basic features
