@@ -3,12 +3,12 @@
   "main": "./lib/fibonacci-indent",
   "version": "1.0.0",
   "description": "Automatically indent your code based on the Fibonacci sequence. Impress your colleagues with this one simple package!",
-  "keywords": [
+  "keywords": [ "fibonacci", "indent", "indentation", "joke", "whitespace", "tab"
   ],
   "activationCommands": {
     "atom-workspace": "fibonacci-indent:indent"
   },
-  "repository": "https://github.com/atom/fibonacci-indent",
+  "repository": "https://github.com/mkrl/fibonacci-indent",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
